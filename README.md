@@ -11,7 +11,7 @@
 
 ## About me
 
-I'm an AI/ML engineer and a recent B.Tech graduate in Computer Science Engineering (Artificial Intelligence and Machine Learning). Over two years of college I built 8 hands-on projects, and I enjoy building applied AI products end to end: preparing data, training and fine-tuning models, and shipping them as apps people can use. I work across large language models, computer vision and classical machine learning, and I'm looking for my first full-time AI/ML role.
+I'm an AI/ML engineer and a recent B.Tech graduate in Computer Science Engineering (Artificial Intelligence and Machine Learning). Over two years of college I built 8 hands-on projects, and I enjoy building applied AI products end to end: preparing data, training and fine-tuning models, and shipping them as apps people can use. I work across large language models, NLP, computer vision and classical machine learning, and I'm looking for my first full-time AI/ML role.
 
 ## Featured project
 
@@ -42,9 +42,9 @@ Final-year team project (3 members), live on Hugging Face Spaces.
 
 ## What I work on
 
-- **LLMs and generative AI:** retrieval-augmented generation (RAG), vector databases, vision-language models and prompt engineering with LangChain, LlamaIndex, Pinecone and Hugging Face
-- **Computer vision:** image classification and fine-tuning CNNs with PyTorch, TensorFlow and OpenCV
-- **Classical ML and data science:** exploratory data analysis, feature engineering and predictive modelling with scikit-learn and Pandas
+- **LLMs, NLP and generative AI:** large language models, retrieval-augmented generation (RAG), natural language processing, vector databases, vision-language models and prompt engineering with LangChain, LlamaIndex, Pinecone and Hugging Face
+- **Computer vision and deep learning:** image classification and fine-tuning CNNs with PyTorch, TensorFlow and OpenCV
+- **Classical ML and data science:** machine learning algorithms, exploratory data analysis, feature engineering and predictive modelling with scikit-learn, Pandas and NumPy
 - **Deployment:** serving models with FastAPI and Gradio, containerising with Docker and deploying to AWS
 
 ## Tech stack
@@ -67,7 +67,7 @@ Final-year team project (3 members), live on Hugging Face Spaces.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-**LLMs and generative AI**
+**LLMs, NLP and generative AI**
 
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -82,7 +82,12 @@ Final-year team project (3 members), live on Hugging Face Spaces.
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Web**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
 ## Languages
 
@@ -90,4 +95,4 @@ Tamil (native) · English (fluent) · Arabic (basic) · Japanese (basic)
 
 ## Open to work
 
-I'm looking for entry-level roles in machine learning, computer vision and generative AI in India and the UAE. The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/elisha-paul-a9816b36b/).
+I'm looking for entry-level roles as a machine learning, AI or computer vision engineer in India and the UAE. The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/elisha-paul-a9816b36b/).
